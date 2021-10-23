@@ -1,13 +1,12 @@
-##README
 
 This is a machine learning library developed by **Xinyuan Yan** for CS5350/6350 in University of Utah
 
-#####Decision Tree
+**Decision Tree**
 ***
 * *ID3Alg_2a.py*, *ID3Alg_3a.py*, and *ID3Alg_3b.py* are corrsponded with *2(a)*,*3(a)*, *3(b)* in **Homework 1 Part 2** respectively.
 * You can adjust the max depth of the decision tree using variable *max_depth*
 
-####Ensemble Learning
+**Ensemble Learning**
 ***
 **Correspondence**
 
@@ -18,7 +17,7 @@ This is a machine learning library developed by **Xinyuan Yan** for CS5350/6350 
 * 2(e) -- randomForest2e.py
 
 
-####Linear Regression
+**Linear Regression**
 ***
 * You can run *LMS.py* for the **batch gradient descent algorithm** and **stochastic gradient descent algorithm**. 
 * The variable *batch_r* and *batch_threshould* are used to set *r* and threshold of **batch gradient descent algorithm** respectively.

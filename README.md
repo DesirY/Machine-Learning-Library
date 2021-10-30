@@ -3,7 +3,7 @@ This is a machine learning library developed by **Xinyuan Yan** for CS5350/6350 
 
 **Decision Tree**
 ***
-* *ID3Alg_2a.py*, *ID3Alg_3a.py*, and *ID3Alg_3b.py* are corrsponded with *2(a)*,*3(a)*, *3(b)* in **Homework 1 Part 2** respectively.You can use run_2a.sh, run_3a.sh, and run_3b to run them, respectively.
+* *ID3Alg_2a.py*, *ID3Alg_3a.py*, and *ID3Alg_3b.py* are corrsponded with *2(a)*,*3(a)*, *3(b)* in **Homework 1 Part 2** respectively.You can use run_2a.sh, run_3a.sh, and run_3b.sh to run them, respectively.
 * You can adjust the max depth of the decision tree using variable *max_depth*
 
 **Ensemble Learning**

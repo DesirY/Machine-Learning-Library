@@ -1,2 +1,2 @@
 #!/bin/bash
-python ID3Alg_3b.py
+python3 ID3Alg_3b.py

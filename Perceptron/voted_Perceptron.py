@@ -130,8 +130,5 @@ if __name__ == '__main__':
     print('----------------------------------------------------------')
     print('Weight Vectors', 'Count')
     for W_C in perceptron.w_c_set:
-        w = []
-        for num in W_C[0]:
-            w.append(round(num, 2))
-        print('$', w, ',', W_C[1], '$', '\\\\')
+        print(W_C[0], W_C[1])
     print('test error', perceptron.test_error(test_data))

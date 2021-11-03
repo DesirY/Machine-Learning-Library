@@ -27,8 +27,5 @@ This is a machine learning library developed by **Xinyuan Yan** for CS5350/6350 
 
 **Perceptron**
 ***
-* You can run *LMS.py* for the **batch gradient descent algorithm** and **stochastic gradient descent algorithm**. 
-* The variable *batch_r* and *batch_threshould* are used to set *r* and threshold of **batch gradient descent algorithm** respectively.
-* The variable *stochastic_r* and *stochastic_threshould* are used to set *r* and threshold of **stochastic gradient descent algorithm** respectively.
-* The results of 4(a) and 4(b) are stored in *4a.csv* and *4b.csv* under folder **Results**.
-
+* You can run *standard_Perceptron.sh*, *voted_Perceptron.sh*, and *averaged_Perceptron.sh* for the **standard Perceptron**, **voted Perceptron**, and **averaged Perceptron**, respectively.
+* The variable *T* and *r* are used to set epoch and step rate.

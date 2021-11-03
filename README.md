@@ -24,3 +24,11 @@ This is a machine learning library developed by **Xinyuan Yan** for CS5350/6350 
 * The variable *stochastic_r* and *stochastic_threshould* are used to set *r* and threshold of **stochastic gradient descent algorithm** respectively.
 * The results of 4(a) and 4(b) are stored in *4a.csv* and *4b.csv* under folder **Results**.
 
+
+**Perceptron**
+***
+* You can run *LMS.py* for the **batch gradient descent algorithm** and **stochastic gradient descent algorithm**. 
+* The variable *batch_r* and *batch_threshould* are used to set *r* and threshold of **batch gradient descent algorithm** respectively.
+* The variable *stochastic_r* and *stochastic_threshould* are used to set *r* and threshold of **stochastic gradient descent algorithm** respectively.
+* The results of 4(a) and 4(b) are stored in *4a.csv* and *4b.csv* under folder **Results**.
+

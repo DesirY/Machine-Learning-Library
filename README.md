@@ -29,3 +29,14 @@ This is a machine learning library developed by **Xinyuan Yan** for CS5350/6350 
 ***
 * You can run *standard_Perceptron.sh*, *voted_Perceptron.sh*, and *averaged_Perceptron.sh* for the **standard Perceptron**, **voted Perceptron**, and **averaged Perceptron**, respectively.
 * The variable *T* and *r* are used to set epoch and step rate.
+
+
+**SVM**
+***
+
+* You can run *sto_sub_gradient_SVM.sh* for the **Assignment 4 Practice 2**. 
+* You can run *dual_SVM.sh* for the **Assignment 4 Practice 3**.
+
+
+
+

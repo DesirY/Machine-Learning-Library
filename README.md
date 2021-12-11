@@ -38,5 +38,11 @@ This is a machine learning library developed by **Xinyuan Yan** for CS5350/6350 
 * You can run *dual_SVM.sh* for the **Assignment 4 Practice 3**.
 
 
+**Neural Networks**
+* You can run *BP.sh* for the **Assignment 5 Practice 2(a)**. 
+* You can run *NeuroNetwork.sh* for the **Assignment 5 Practice 2(b)**.
+* You can run *NNZeros.sh* for the **Assignment 5 Practice 2(c)**.
+* You can run *pytorchPy.sh* for the **Assignment 5 Practice 2(e)**.
+
 
 

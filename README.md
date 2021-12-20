@@ -47,4 +47,4 @@ This is a machine learning library developed by **Xinyuan Yan** for CS5350/6350 
 
 
 **Final project**
-* run 
+* run *adaBoost.sh* for AdaBoost algorithm.* run *NN.sh* for neural network algorithm.* run *SVM.sh* for SVM algorithm.* run *randomForest.sh* for random forest algorithm.
